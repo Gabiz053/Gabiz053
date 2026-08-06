@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Gabriel Gomez Garcia, computer engineer working on AI and data">
-  <rect width="1200" height="320" fill="#14161A"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Gabriel Gomez Garcia">
+  <rect width="1200" height="260" fill="#14161A"/>
   <g>
-    <rect x="0" y="0"   width="14" height="53.4" fill="#2E9E7E"/>
-    <rect x="0" y="53.4" width="14" height="53.4" fill="#D93F26"/>
-    <rect x="0" y="106.8" width="14" height="53.4" fill="#B04A6E"/>
-    <rect x="0" y="160.2" width="14" height="53.4" fill="#6FA83C"/>
-    <rect x="0" y="213.6" width="14" height="53.4" fill="#D96E30"/>
-    <rect x="0" y="267" width="14" height="53" fill="#2E7D8F"/>
+    <rect x="0" y="0"     width="14" height="43.3" fill="#2E9E7E"/>
+    <rect x="0" y="43.3"  width="14" height="43.3" fill="#D93F26"/>
+    <rect x="0" y="86.6"  width="14" height="43.3" fill="#B04A6E"/>
+    <rect x="0" y="129.9" width="14" height="43.3" fill="#6FA83C"/>
+    <rect x="0" y="173.2" width="14" height="43.3" fill="#D96E30"/>
+    <rect x="0" y="216.5" width="14" height="43.5" fill="#2E7D8F"/>
   </g>
-  <text x="92" y="96" font-family="Charter, 'Bitstream Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="4" fill="#2E9E7E">GABIZ053</text>
-  <text x="92" y="176" font-family="Charter, 'Bitstream Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-weight="700" font-size="66" fill="#EEEEEA">Gabriel Gómez García</text>
-  <rect x="92" y="206" width="64" height="4" fill="#2E9E7E"/>
-  <text x="92" y="252" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#92959A">Computer engineer. I build things with language models and data.</text>
-  <text x="92" y="292" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="1" fill="#6C6F74">RAG · LLM · PROMPT DESIGN · MACHINE LEARNING</text>
+  <text x="92" y="122" font-family="Charter, 'Bitstream Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-weight="700" font-size="68" fill="#EEEEEA">Gabriel Gómez García</text>
+  <text x="94" y="176" font-family="Charter, 'Bitstream Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="30" fill="#92959A">I build retrieval systems, and then I check whether they work.</text>
 </svg>
