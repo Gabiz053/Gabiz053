@@ -1,9 +1,7 @@
-<img src="header.svg" alt="Gabriel Gómez García" width="100%">
+<img src="header.svg" alt="Gabriel Gómez García, computer engineer" width="100%">
 
-Computer engineer from the University of Cantabria. Right now I am on a double master’s in Computer Engineering and Applied AI at UC3M, and looking for an internship or a first job in AI and data.
+I am a computer engineer from the University of Cantabria, now on a double master’s in Computer Engineering and Applied AI at UC3M. I am looking for an internship or a first job.
 
-Most of what I have built circles the same problem: getting the right fragment in front of a language model, and then finding out whether the answer was any good. It started with my bachelor’s thesis, a retrieval assistant for the MLOps platform of a research group, which ended up as [a paper at JISBD 2025](https://hdl.handle.net/11705/JISBD/2025/80). Since then I have spent more time on data than on prompts.
+Language models and data are what I enjoy most and what I know best: retrieval, prompt design, and checking whether the output is actually right. That is what my bachelor’s thesis was about, and it later became [a paper at JISBD 2025](https://hdl.handle.net/11705/JISBD/2025/80). But I like building almost anything. I have also made games in Unity and a sandbox in augmented reality.
 
-What is pinned below is what I would open first.
-
-I am on [LinkedIn](https://www.linkedin.com/in/gabrielgomezgarcia/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/gabrielgomezgarcia/).
